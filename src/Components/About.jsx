@@ -18,7 +18,7 @@ import React from "react";
  */
 import image from "../images/web-designer-about.jpg";
 
-const imageAltText = "purple and blue abstract background";
+const imageAltText = "Web designer working on a project.";
 
 /**
  * Sort description that expands on your title on the Home component.
