@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/web-designer-portfolio.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Web designer's desk with laptop, tablet, and notebook.";
 
 /**
  * Project list
