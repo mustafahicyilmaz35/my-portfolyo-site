@@ -31,27 +31,27 @@ const imageAltText = "Web designer's desk with laptop, tablet, and notebook.";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Azure Statik Web Uygulamaları Hakkında Bilinmesi Gereken 10 Şey 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "Azure Statik Web Uygulamaları hakkında bilinmesi gereken 10 şeyi öğrenmek için bu yazıyı okuyun.",
     url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Yeni Başlayanlar İçin Web Geliştirme",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+      "Microsoft tarafından oluşturulan ve GitHub sayfalarına dağıtılan web geliştirme eğitimi.",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
-    title: "My Resume Site",
+    title: "Özgeçmiş Web Sitesi Oluşturma",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
+      "Özgeçmiş web sitesi oluşturmayı öğrenmek için bu eğitimi kullanın.",
     url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "GitHub Codespaces ve github.dev",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
+      "GitHub Codespaces ve github.dev hakkında bilgi edinmek için bu videoyu izleyin.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
   },
 ];
